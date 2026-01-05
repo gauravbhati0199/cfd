@@ -55,14 +55,6 @@ export const teamMembers = [
         Her expertise and commitment are the pillars that support our financial success.`,
   },
   {
-    id: 7,
-    title: 'Minny Gupta ',
-    image: '/images/teams/Minny.png',
-    alt: 'Minny',
-    subtitle: 'HR Lead',
-    description: `Minny Gupta, is a skilled HR Professional with expertise in talent acquisition, employee development, and organizational management. Her strategic approach fosters a positive work culture and drives overall business success.`,
-  },
-  {
     id: 9,
     title: 'Anuj Kumar Naruka',
     image: '/images/teams/Anuj.jpg',
@@ -85,22 +77,6 @@ export const teamMembers = [
     alt: 'Tanishka',
     subtitle: 'Business Development Executive (BDE)',
     description: `Tanishka Aditi drives growth through strategic partnerships and client engagement. With a sharp business acumen and dynamic communication skills, she consistently identifies opportunities to expand market presence and build strong relationships.`,
-  },
-  {
-    id: 13,
-    title: 'Jagriti Brar ',
-    image: '/images/teams/Jagriti.png',
-    alt: 'Jagriti',
-    subtitle: 'Business Development Executive (BDE)',
-    description: `At Vistaar Media, She drive business growth through strategic digital marketing and BTL initiatives, identifying new opportunities, fostering strong client relationships, and delivering impactful campaigns that amplify our reach. As a responsible, hardworking, and committed professional, She prioritize consistent results, integrity, and dedication in my work`,
-  },
-  {
-    id: 14,
-    title: 'Prince Shukla',
-    image: '/images/teams/prince.png',
-    alt: 'Jagriti',
-    subtitle: 'Business Development Executive (BDE)',
-    description: `Prince Shukla is a dynamic Business Development Executive skilled in identifying growth opportunities, building lasting client relationships, and driving market expansion. His strategic approach and passion ensure consistent business success.`,
   },
   {
     id: 15,
