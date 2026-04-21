@@ -16,7 +16,7 @@ export function Carousel({ slides, intervalTime = 7000 }) {
   };
 
   function imageFile(str) {
-    let regex = new RegExp(/[^\s]+(.*?).(jpg|jpeg|png|gif|JPG|JPEG|PNG|GIF)$/);
+    let regex = new RegExp(/[^\s]+(.*?).(jpg|jpeg|png|gif|JPG|JPEG|PNG|GIF|webp|WEBP)$/);
 
     if (str == null) {
       return false;
