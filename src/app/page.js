@@ -12,7 +12,7 @@ import Image from 'next/image';
 import { useEffect, useRef, useState } from 'react';
 
 export default function Home() {
-  const HeroCarouselSlides = ['/images/banner_4.webp', '/images/banner_5.webp', '/images/banner_1.jpg','/images/banner_2.jpg','/images/banner_3.jpg', 'https://res.cloudinary.com/dyccxskji/video/upload/v1747493509/picdvjqjmbvfkh6eqaic.mp4', '/images/gadi.png'];
+  const HeroCarouselSlides = ['/images/banner_4.jpeg', '/images/banner_5.webp', '/images/banner_1.jpg','/images/banner_2.jpg','/images/banner_3.jpg', 'https://res.cloudinary.com/dyccxskji/video/upload/v1747493509/picdvjqjmbvfkh6eqaic.mp4', '/images/gadi.png'];
   const [inputs, setInputs] = useState({ name: '', phone: '', email: '', message: '' });
 
   const handleInputChange = (e) => {

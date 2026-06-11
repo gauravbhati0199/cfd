@@ -33,14 +33,15 @@ export function Header() {
   }, [isHidden]);
   return (
     <header className="sticky top-0 z-50 bg-white/80 drop-shadow-xl backdrop-blur-3xl">
-      <div className="relative flex h-20 min-h-16 w-full justify-center bg-white">
-        <div className="bg-primary h-12 w-full"></div>
+      <div className="relative flex min-h-16 w-full justify-center bg-white">
+        <div className="bg-primary w-full"></div>
         <Image
         priority
-          width={150}
-          height={150}
-          src="/images/CFD-Logo.png"
-          className="absolute object-contain top-1.5 h-16"
+          width={5000}
+          height={5000}
+          // src="/images/icons/Vistar-PNG.png"
+          src="/images/white.png"
+          className="absolute object-contain top-0 h-16 py-2"
         alt="logo"
         />
       </div>
