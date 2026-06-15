@@ -57,7 +57,7 @@ export function Footer() {
         <Link href="https://www.instagram.com/vistaar_media/?igsh=MWY1aDZzbTY0ZHBucw%3D%3D" target="_blank" className="w-6 h-6">
           <InstagramIcon />
         </Link>
-        <Link href="https://www.facebook.com/share/1F3GSbyctV/" target="_blank" className="w-5 h-5">
+        <Link href="https://www.facebook.com/VistaarMediaa" target="_blank" className="w-5 h-5">
           <FacebookIcon />
         </Link>
       </div>
